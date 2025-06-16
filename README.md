@@ -23,4 +23,4 @@ An interactive number guessing game built using **HTML**, **CSS (with SCSS)**, a
 - 🔁 Reset functionality for replay
 - ❌ Automatic game-over on time-out or attempt exhaustion
 - 🔒 Input lock on game completion
-- 📲 Responsive design (optional if included in your CSS)
+- 📲 Responsive design
